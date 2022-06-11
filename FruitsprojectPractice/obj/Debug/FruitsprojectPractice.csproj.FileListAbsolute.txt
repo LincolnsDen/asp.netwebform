@@ -1,0 +1,567 @@
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+E:\ASPPractice1265496\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+C:\Users\Arif-Home\Downloads\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.AssemblyReference.cache
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ASPPractice1265496\2 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csprojAssemblyReference.cache
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csprojAssemblyReference.cache
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+E:\ASPPractice1265496\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.AssemblyReference.cache
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+F:\0 Practice\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.AssemblyReference.cache
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+F:\0 Practice\Fruits Project\3 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csprojAssemblyReference.cache
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.Shared.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.Web.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ussl\Downloads\4 Home\FruitsprojectPractice\FruitsprojectPractice\bin\stdole.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.Shared.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.Web.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\stdole.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csprojAssemblyReference.cache
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+C:\Users\Ussl\Downloads\4 Home\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll.config
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\FruitsprojectPractice.pdb
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.exe.config
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csc.rsp
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.exe.config
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\csi.rsp
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.AppContext.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Collections.Immutable.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Console.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Compression.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.IO.Pipes.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Reflection.Metadata.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.AccessControl.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Claims.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Security.Principal.Windows.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.ValueTuple.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.exe.config
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\vbc.rsp
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\roslyn\VBCSCompiler.exe.config
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\AspNet.ScriptManager.jQuery.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\stdole.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.AssemblyReference.cache
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CoreCompileInputs.cache
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.csproj.CopyComplete
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.dll
+E:\1265496\5 TSP\FruitsprojectPractice\FruitsprojectPractice\obj\Debug\FruitsprojectPractice.pdb
